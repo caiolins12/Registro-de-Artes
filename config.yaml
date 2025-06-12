@@ -1,0 +1,16 @@
+convites: {}
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@admin.com
+      name: Administrador
+      password: $2b$12$u8OiMHDWviJV78ldmjZk5O4vAf1dig.ACpXlyc258VNM5IFlkM5ie
+    caiolins12:
+      email: caiolins12@gmail.com
+      name: Caio Coelho Lins
+      password: $2b$12$JnOxoH7smDVaQ2vU0fBISOSCybcaFHjVnXOAEvEkqPWf/OJ8MqFPK
+grupos: {}
